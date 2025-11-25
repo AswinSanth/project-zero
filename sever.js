@@ -7,3 +7,10 @@ const sum = (a, b) => {
 //git add filename =to add select current file
 //git commit -m "message" --->to save
 //git status 
+//git checkout -brachnname --> create new branch
+
+
+
+
+//git log --> to see all commits
+//git checkout commitid--> to see  commit with commit id
