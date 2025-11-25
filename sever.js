@@ -8,7 +8,7 @@ const sum = (a, b) => {
 //git commit -m "message" --->to save
 //git status 
 //git checkout -brachnname --> create new branch
-
+//git branch -d branchname --> to delelte branch
 
 
 
